@@ -14,7 +14,7 @@ const INFO = {
     homepage: {
         title: "Front-end Web Developer.",
         description:
-            "I am a frontend web developer with an interest in backend, with expertise in Node.js and Javascript libraries like React and Next.js.  Through my experiences at internships like the NBA Digital Product team I have been able to get experience with testing, cloud development, and building quality/efficient code.  I am eager to continue to develop my skills through problem solving and opportunities to grow. ",
+            "I am a frontend web developer with an interest in backend, with expertise in Node.js and Javascript libraries like React and Next.js.  Through my experiences at internships like the NBA Digital Product team I have been able to get experience with testing, cloud development, and building quality/efficient code.  During my time with comcast I was introduced to the world op Open-Source and was introduced to skills like Next.JS and RoR, less used today but an amazing thing to pick up and a great way to expand my knowledge.  I am eager to continue to develop my skills through problem solving and opportunities to grow. ",
     },
 
     about: {
